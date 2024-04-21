@@ -34,6 +34,3 @@ And the [quantized mistral model](https://huggingface.co/TheBloke/Mistral-7B-Ins
 6. **Enter commands in terminal**: 
    1. ```python3 database_operations.py``` This will initialize the sqlite database for the chat sessions.
    2. ```streamlit run app.py```
-
-
-- **SQLite Database for Chat History**: Implemented a SQLite database to store the chat history.
